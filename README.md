@@ -1,4 +1,3 @@
-A simple command-line application.
+This is an example code for Liskov Substitution Principle using Dart.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+More details can be found at https://better-dev.io/liskov-substitution-principle-deep-dive/
